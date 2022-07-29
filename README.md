@@ -16,3 +16,17 @@ This is what you need to accomplish this project:
   GND - GND, VCC - 5V, S1 - D3, S2 - D2, KEY - D4
 - RFID module wiring:
   GND - GND, 3.3V - 3.3V, RST - D9, MISO - D12, MOSI - D11, SCK - D13, SDA - D10
+
+# Images
+
+Main menu
+
+![Main menu](https://github.com/andyparkers/RFID-1356-MHz-UID-changer/blob/main/Images/IMG_20220729_220914.jpg)
+
+Read UID
+
+![UID](https://github.com/andyparkers/RFID-1356-MHz-UID-changer/blob/main/Images/IMG_20220729_220856.jpg)
+
+Write UID manually
+
+![Write UID](https://github.com/andyparkers/RFID-1356-MHz-UID-changer/blob/main/Images/IMG_20220729_221002.jpg)
