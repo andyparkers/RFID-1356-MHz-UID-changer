@@ -19,14 +19,14 @@ This is what you need to accomplish this project:
 
 # Images
 
-Main menu
+Main menu:
 
 ![Main menu](https://github.com/andyparkers/RFID-1356-MHz-UID-changer/blob/main/Images/IMG_20220729_220914.jpg)
 
-Read UID
+Read UID:
 
 ![UID](https://github.com/andyparkers/RFID-1356-MHz-UID-changer/blob/main/Images/IMG_20220729_220856.jpg)
 
-Write UID manually
+Write UID manually:
 
 ![Write UID](https://github.com/andyparkers/RFID-1356-MHz-UID-changer/blob/main/Images/IMG_20220729_221002.jpg)
