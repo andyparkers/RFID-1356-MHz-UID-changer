@@ -7,3 +7,12 @@ This is what you need to accomplish this project:
 - Encoder
 - Arduino Nano
 - MFRC522
+
+# Wiring
+
+- Display wiring:
+  GND - GND, VCC - 5V, SDA - A4, SCL - A5
+- Encoder wiring:
+  GND - GND, VCC - 5V, S1 - D3, S2 - D2, KEY - D4
+- RFID module wiring:
+  GND - GND, 3.3V - 3.3V, RST - D9, MISO - D12, MOSI - D11, SCK - D13, SDA - D10
